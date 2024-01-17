@@ -1,4 +1,12 @@
 {
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -56,12 +64,5 @@
       "key": "`"
     }
   ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "`"
-    }
-  ]
+  "editing-toolbar:header0-text": []
 }
