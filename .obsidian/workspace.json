@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Консольные команды.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0994f1f99350f624",
+  "active": "2b60069b0cfcde76",
   "lastOpenFiles": [
+    "Docker/Без названия",
+    "Linux/Консольные команды.md",
     "Docker/Установка.md",
     "Docker/Dockerfile.md",
     "Docker/Команды.md",
@@ -181,8 +183,6 @@
     "Python/Selenium.md",
     "Python/Pip.md",
     "Python/Fluent.md",
-    "Python/Datetime.md",
-    "Python/Beautiful Soup.md",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
     "Deutsch/Репет/Pasted image 20240105153808.png",
