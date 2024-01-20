@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8ed63cac4e77dcc9",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Синхронизация файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Синхронизация файлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "Docker/Синхронизация файлов.md"
               }
             }
           },
@@ -197,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e0e09815383f83a",
+  "active": "06893f9b86c0d13b",
   "lastOpenFiles": [
-    "Docker/Dockerfile.md",
     "Docker/Команды.md",
     "Docker/Синхронизация файлов.md",
+    "Docker/Dockerfile.md",
     "Docker/Установка.md",
     "Docker/Без названия",
     "Linux/Консольные команды.md",
