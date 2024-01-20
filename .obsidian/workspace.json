@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Dockerfile.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Dockerfile.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Dockerfile.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -208,11 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0994f1f99350f624",
+  "active": "a94e5f8361ead6c7",
   "lastOpenFiles": [
+    "Docker/Dockerfile.md",
     "Docker/Команды.md",
     "Docker/Синхронизация файлов.md",
-    "Docker/Dockerfile.md",
     "Docker/Установка.md",
     "Docker/Без названия",
     "Linux/Консольные команды.md",
