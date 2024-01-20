@@ -104,6 +104,7 @@
       {
         "id": "b12cf36d51660eb5",
         "type": "tabs",
+        "dimension": 46.336996336996336,
         "children": [
           {
             "id": "5d5f92a83a9f9a2e",
@@ -163,11 +164,28 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "00e147aa364d7d7b",
+        "type": "tabs",
+        "dimension": 53.663003663003664,
+        "children": [
+          {
+            "id": "5e0e09815383f83a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a94e5f8361ead6c7",
+  "active": "5e0e09815383f83a",
   "lastOpenFiles": [
     "Docker/Dockerfile.md",
     "Docker/Команды.md",
