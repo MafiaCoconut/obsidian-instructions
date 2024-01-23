@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "dc86fd6437a08ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Установка расширений.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dbfeb5cd08694c8b",
             "type": "leaf",
             "state": {
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Linux/Установка расширений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Linux/Установка расширений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "Linux/Установка расширений.md"
               }
             }
           },
@@ -220,16 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbfeb5cd08694c8b",
+  "active": "dc86fd6437a08ef2",
   "lastOpenFiles": [
-    "Docker/Dockerfile.md",
     "Docker/Network.md",
-    "Docker/Разное.md",
+    "Linux/Консольные команды.md",
+    "Linux/Установка расширений.md",
     "Docker/Команды.md",
+    "Docker/Dockerfile.md",
+    "Docker/Разное.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
     "Docker/Без названия",
-    "Linux/Консольные команды.md",
     "Разное.md",
     "Список всего.md",
     "Список задач.md",
@@ -249,7 +262,6 @@
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
     "Python/Tabulate.md",
-    "Python/Selenium.md",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
     "Deutsch/Репет/Pasted image 20240105153808.png",
