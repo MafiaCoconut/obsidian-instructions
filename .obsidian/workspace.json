@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "4b3f86464b0865ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Разное.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dbfeb5cd08694c8b",
             "type": "leaf",
             "state": {
@@ -79,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Dockerfile.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Dockerfile.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Dockerfile.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -231,12 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0994f1f99350f624",
+  "active": "dbfeb5cd08694c8b",
   "lastOpenFiles": [
+    "Docker/Dockerfile.md",
     "Docker/Network.md",
     "Docker/Разное.md",
     "Docker/Команды.md",
-    "Docker/Dockerfile.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
     "Docker/Без названия",
