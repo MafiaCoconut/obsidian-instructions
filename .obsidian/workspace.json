@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a94e5f8361ead6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Команды.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f7b64798b0c798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Синхронизация файлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06893f9b86c0d13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Синхронизация файлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8ed63cac4e77dcc9",
@@ -116,7 +78,6 @@
       {
         "id": "b12cf36d51660eb5",
         "type": "tabs",
-        "dimension": 46.336996336996336,
         "children": [
           {
             "id": "5d5f92a83a9f9a2e",
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "Docker/Dockerfile.md"
               }
             }
           },
@@ -176,27 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "00e147aa364d7d7b",
-        "type": "tabs",
-        "dimension": 53.663003663003664,
-        "children": [
-          {
-            "id": "5e0e09815383f83a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,14 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a94e5f8361ead6c7",
+  "active": "0994f1f99350f624",
   "lastOpenFiles": [
-    "Docker/Dockerfile.md",
-    "Docker/Команды.md",
-    "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
-    "Docker/Без названия",
-    "Linux/Консольные команды.md",
+    "Docker/Синхронизация файлов.md",
     "Разное.md",
     "Список всего.md",
     "Список задач.md",
@@ -239,6 +180,9 @@
     "Python/Selenium.md",
     "Python/Pip.md",
     "Python/Fluent.md",
+    "Python/Datetime.md",
+    "Python/Beautiful Soup.md",
+    "Python/Библиотеки Python.md",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
     "Deutsch/Репет/Pasted image 20240105153808.png",
