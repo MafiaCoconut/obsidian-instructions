@@ -21,14 +21,19 @@ logging.basicConfig(
 
 ##### Настройка логгеров
 
-Настройка нижнего вывода логов
+Настройка нижнего уровня вывода логов
 `name_logger.setLevel(logging.DEBUG)`
 `name_logger.setLevel(logging.INFO)`
 
-##### Настройка формата вывода
 
+Настройка формата вывода
 `formatter = logging.Formatter(fmt='', datefmt='')` 
 
+Настройка файла для вывода
+`name_handler = logging.FileHandler('name_data.log')`
+
+`name_handler.setFormatter(formatter)`
+`name_logger.addHandler(name_handler)`
 ###### Параметры вывода лога
 `%(asctime)` - Время вывода лога
 `%(levelname)` - Уровень лога (DEBUG, INFO, WARNING, ...)
