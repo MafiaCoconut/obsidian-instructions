@@ -9,7 +9,6 @@ logging.basicConfig(
 ```
 
 ### Точечная настройка логов
-
 #### Логгеры
 Для использования логов для разных частей проекта можно создать новые логгеры для конкретных ситуаций.
 
@@ -20,11 +19,9 @@ logging.basicConfig(
 В любой части проекта можно вызвать логгер по имени.
 
 ##### Настройка логгеров
-
 Настройка нижнего уровня вывода логов
 `name_logger.setLevel(logging.DEBUG)`
 `name_logger.setLevel(logging.INFO)`
-
 
 Настройка формата вывода
 `formatter = logging.Formatter(fmt='', datefmt='')` 
@@ -34,6 +31,7 @@ logging.basicConfig(
 
 `name_handler.setFormatter(formatter)`
 `name_logger.addHandler(name_handler)`
+
 ###### Параметры вывода лога
 `%(asctime)` - Время вывода лога
 `%(levelname)` - Уровень лога (DEBUG, INFO, WARNING, ...)
@@ -42,6 +40,7 @@ logging.basicConfig(
 `%(filename)` - Имя файла, в котором была создана запись
 `%(funcName)` - Имя функции, из которой была создана запись
 
+`fmt='[%(levelname)s] %(asctime)s - %(message)s'`
 ###### Параметры вывода даты/времени
 - **%Y**: Год (четыре цифры).
 - **%m**: Месяц (два числа, с ведущим нулем, если месяц < 10).
@@ -51,3 +50,4 @@ logging.basicConfig(
 - **%S**: Секунды (два числа, с ведущим нулем, если секунды < 10).
 - **%f**: Микросекунды (шестизначное число).
 - **%Z**: Часовой пояс (например, UTC, EST, PST).
+`datefmt='%d.%m-%H:%M'`
