@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Python/Fluent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Python/Fluent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Python/Fluent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Команды.md"
+                "file": "Python/Fluent.md"
               }
             }
           },
@@ -156,35 +156,35 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "Python/Библиотеки Python.md",
+    "Python/Tabulate.md",
+    "Python/Selenium.md",
+    "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
+    "Linux/Консольные команды.md",
+    "PostgreSQL/Команды.md",
     "Docker/Разное.md",
     "Docker/Network.md",
     "PostgreSQL/Консольные команды.md",
     "Python/PostgreSQL.md",
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
     "Git/Настройка git.md",
     "PostgreSQL",
-    "Linux/Консольные команды.md",
     "Docker/Установка.md",
-    "Linux/Obsidian.md",
     "Python/Logs.md",
     "Python/Без названия",
     "Raspberry/Автозапуск проекта на Raspberry.md",
     "Python/Pip.md",
     "Python/Разное.md",
     "Python/Apscheduler.md",
-    "Python/Библиотеки Python.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
     "Welcome.md",
     "Docker/Dockerfile.md",
     "Docker/Синхронизация файлов.md",
     "Разное.md",
-    "Список всего.md",
-    "Список задач.md",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
