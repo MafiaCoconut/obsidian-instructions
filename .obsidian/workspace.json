@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Logs.md",
+                "file": "Git/Настройка git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Logs.md",
+                "file": "Git/Настройка git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Logs.md",
+                "file": "Git/Настройка git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Logs.md"
+                "file": "Git/Настройка git.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
     "Linux/Консольные команды.md",
+    "Docker/Установка.md",
+    "Linux/Obsidian.md",
     "Python/Logs.md",
     "Python/Без названия",
     "Raspberry/Автозапуск проекта на Raspberry.md",
@@ -169,7 +171,6 @@
     "Git/Настройка git.md",
     "Welcome.md",
     "Docker/Dockerfile.md",
-    "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
     "Разное.md",
     "Список всего.md",
@@ -183,7 +184,6 @@
     "Полезные фишки.md",
     "UniBotHelper update list.md",
     "Pasted image 20231204150719.png",
-    "Python/Tabulate.md",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
     "Deutsch/Репет/Pasted image 20240105153808.png",
