@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "PostgreSQL/pgAdmin 4/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "PostgreSQL/pgAdmin 4/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "PostgreSQL/pgAdmin 4/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Настройка git.md"
+                "file": "PostgreSQL/pgAdmin 4/Установка.md"
               }
             }
           },
@@ -156,6 +156,12 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "PostgreSQL/Команды.md",
+    "PostgreSQL/pgAdmin 4/Установка.md",
+    "PostgreSQL/pgAdmin 4",
+    "PostgreSQL/Установка.md",
+    "Git/Настройка git.md",
+    "PostgreSQL",
     "Linux/Консольные команды.md",
     "Docker/Установка.md",
     "Linux/Obsidian.md",
@@ -168,7 +174,6 @@
     "Python/Библиотеки Python.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
-    "Git/Настройка git.md",
     "Welcome.md",
     "Docker/Dockerfile.md",
     "Docker/Синхронизация файлов.md",
@@ -180,9 +185,6 @@
     "Raspberry/Geckodriver.md",
     "Raspberry/VS Code.md",
     "Raspberry/Подключение к github.md",
-    "Локальные файлы на машинах.md",
-    "Полезные фишки.md",
-    "UniBotHelper update list.md",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
@@ -201,8 +203,6 @@
     "templates",
     "Без названия.canvas",
     "Raspberry",
-    "Git",
-    "Python",
     "Untitled.canvas"
   ]
 }
