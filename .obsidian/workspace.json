@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Команды.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Консольные команды.md",
+    "Python/PostgreSQL.md",
+    "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
@@ -184,7 +185,6 @@
     "Финансы.md",
     "Raspberry/Подключение по ssh.md",
     "Raspberry/Geckodriver.md",
-    "Raspberry/VS Code.md",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
