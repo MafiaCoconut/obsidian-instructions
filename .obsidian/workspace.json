@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/ENV.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/ENV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/ENV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Fluent.md"
+                "file": "Python/ENV.md"
               }
             }
           },
@@ -156,6 +156,13 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "Python/Pip.md",
+    "Python/ENV.md",
+    "Git/Основные команды.md",
+    "Git/Начало работы с новым проектом.md",
+    "Git/Настройка git.md",
+    "Python/Разное.md",
+    "Python/Fluent.md",
     "Python/Библиотеки Python.md",
     "Python/Tabulate.md",
     "Python/Selenium.md",
@@ -170,21 +177,14 @@
     "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
-    "Git/Настройка git.md",
     "PostgreSQL",
     "Docker/Установка.md",
     "Python/Logs.md",
     "Python/Без названия",
     "Raspberry/Автозапуск проекта на Raspberry.md",
-    "Python/Pip.md",
-    "Python/Разное.md",
     "Python/Apscheduler.md",
-    "Git/Основные команды.md",
-    "Git/Начало работы с новым проектом.md",
     "Welcome.md",
     "Docker/Dockerfile.md",
-    "Docker/Синхронизация файлов.md",
-    "Разное.md",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
