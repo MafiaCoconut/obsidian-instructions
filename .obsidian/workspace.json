@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "Docker/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "Docker/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "Docker/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ENV.md"
+                "file": "Docker/Установка.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "Linux/Консольные команды.md",
+    "Python/ENV.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
-    "Python/ENV.md",
     "Python/Pip.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
@@ -170,7 +171,6 @@
     "Python/Selenium.md",
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
-    "Linux/Консольные команды.md",
     "Docker/Разное.md",
     "Docker/Network.md",
     "Python/PostgreSQL.md",
