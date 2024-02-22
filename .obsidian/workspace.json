@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dad82561c949bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL/Команды.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Network.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Network.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Network.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -178,12 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0994f1f99350f624",
+  "active": "ee949733654c7bcf",
   "lastOpenFiles": [
-    "PostgreSQL/Консольные команды.md",
     "Docker/Команды.md",
-    "Docker/Network.md",
     "PostgreSQL/Команды.md",
+    "PostgreSQL/Консольные команды.md",
+    "Docker/Network.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
