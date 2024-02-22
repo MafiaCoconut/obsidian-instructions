@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a210ffaa2ffdb17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Команды.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -154,10 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0994f1f99350f624",
+  "active": "a210ffaa2ffdb17b",
   "lastOpenFiles": [
-    "Docker/Команды.md",
     "PostgreSQL/Консольные команды.md",
+    "Docker/Команды.md",
     "PostgreSQL/Команды.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
