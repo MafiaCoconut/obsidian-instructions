@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ENV.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ENV.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
-    "Python/Pip.md",
     "Python/ENV.md",
+    "Python/Pip.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
     "Git/Настройка git.md",
