@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Установка.md",
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Установка.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Установка.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Установка.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -156,6 +156,14 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "Docker/Синхронизация файлов.md",
+    "Docker/Установка.md",
+    "Docker/Data/Pasted image 20240115121016.png",
+    "Docker/Data/Pasted image 20240115120915.png",
+    "Docker/Network.md",
+    "Docker/Dockerfile.md",
+    "Docker/Команды.md",
+    "Docker/Разное.md",
     "Linux/Консольные команды.md",
     "Python/ENV.md",
     "PostgreSQL/Консольные команды.md",
@@ -171,20 +179,13 @@
     "Python/Selenium.md",
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
-    "Docker/Разное.md",
-    "Docker/Network.md",
     "Python/PostgreSQL.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
-    "Docker/Установка.md",
     "Python/Logs.md",
     "Python/Без названия",
-    "Raspberry/Автозапуск проекта на Raspberry.md",
-    "Python/Apscheduler.md",
-    "Welcome.md",
-    "Docker/Dockerfile.md",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
     "Deutsch/Репет/Pasted image 20240105160238.png",
@@ -193,8 +194,6 @@
     "Deutsch/Репет/Pasted image 20240105013024.png",
     "Deutsch/Репет/Pasted image 20240105012149.png",
     "Deutsch/Репет/Pasted image 20240103150838.png",
-    "Deutsch/Репет/Pasted image 20240103153045.png",
-    "Deutsch/Репет/Pasted image 20240103151735.png",
     "Deutsch/Репет/Файлы",
     "Deutsch/Репет",
     "Телеграм бот хелпер для уника",
