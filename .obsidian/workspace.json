@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -156,18 +156,18 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "PostgreSQL/Команды.md",
+    "Docker/Команды.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
     "Docker/Network.md",
     "Docker/Dockerfile.md",
-    "Docker/Команды.md",
     "Docker/Разное.md",
     "Linux/Консольные команды.md",
     "Python/ENV.md",
     "PostgreSQL/Консольные команды.md",
-    "PostgreSQL/Команды.md",
     "Python/Pip.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
