@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Python/ENV.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Python/ENV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Python/ENV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "Python/ENV.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "0994f1f99350f624",
   "lastOpenFiles": [
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
     "Python/ENV.md",
     "Python/Pip.md",
     "Git/Основные команды.md",
@@ -169,10 +171,8 @@
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
     "Linux/Консольные команды.md",
-    "PostgreSQL/Команды.md",
     "Docker/Разное.md",
     "Docker/Network.md",
-    "PostgreSQL/Консольные команды.md",
     "Python/PostgreSQL.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
