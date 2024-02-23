@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker-copmpose/Консольные команды.md",
+                "file": "Docker/Docker-copmpose/Yaml файл.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker-copmpose/Консольные команды.md",
+                "file": "Docker/Docker-copmpose/Yaml файл.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker-copmpose/Консольные команды.md",
+                "file": "Docker/Docker-copmpose/Yaml файл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker-copmpose/Консольные команды.md"
+                "file": "Docker/Docker-copmpose/Yaml файл.md"
               }
             }
           },
@@ -218,10 +218,11 @@
   },
   "active": "a210ffaa2ffdb17b",
   "lastOpenFiles": [
+    "Docker/Docker-copmpose/Консольные команды.md",
+    "Docker/Docker-copmpose/Yaml файл.md",
     "templates/sh command.md",
     "Docker/Network.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "Docker/Docker-copmpose/Консольные команды.md",
     "Docker/Команды.md",
     "Docker/Docker-copmpose",
     "Docker/Синхронизация файлов.md",
@@ -246,7 +247,6 @@
     "Python/Selenium.md",
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
-    "Python/PostgreSQL.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
     "Python/Без названия",
