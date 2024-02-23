@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Docker/Команды.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8124f758c3a45369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Подключение DB к коду.md"
               }
             }
           },
@@ -194,9 +206,11 @@
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
     "Docker/Команды.md",
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Консольные команды.md",
     "Docker/Network.md",
+    "PostgreSQL/Подключение DB к коду.md",
+    "PostgreSQL/Установка.md",
+    "PostgreSQL/Команды.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
@@ -217,7 +231,6 @@
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
     "Python/PostgreSQL.md",
-    "PostgreSQL/Установка.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
