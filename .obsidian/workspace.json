@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "a210ffaa2ffdb17b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Консольные команды.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ddf7b9f996c64154",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Консольные команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Консольные команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Консольные команды.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -216,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a210ffaa2ffdb17b",
+  "active": "8124f758c3a45369",
   "lastOpenFiles": [
+    "Docker/Синхронизация файлов.md",
+    "Linux/Консольные команды.md",
     "Linux/Установка расширений.md",
     "Docker/Docker-copmpose/Yaml файл.md",
     "Docker/Docker-copmpose/Консольные команды.md",
@@ -226,7 +216,6 @@
     "PostgreSQL/Подключение DB к коду.md",
     "Docker/Команды.md",
     "Docker/Docker-copmpose",
-    "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
@@ -235,7 +224,6 @@
     "Docker/Data/Pasted image 20240115120915.png",
     "Docker/Dockerfile.md",
     "Docker/Разное.md",
-    "Linux/Консольные команды.md",
     "Python/ENV.md",
     "Python/Pip.md",
     "Git/Основные команды.md",
