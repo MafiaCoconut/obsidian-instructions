@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Синхронизация файлов.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Синхронизация файлов.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Синхронизация файлов.md"
+                "file": "PostgreSQL/Подключение DB к коду.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a210ffaa2ffdb17b",
+  "active": "ee949733654c7bcf",
   "lastOpenFiles": [
-    "Docker/Команды.md",
     "Docker/Синхронизация файлов.md",
+    "Docker/Команды.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Консольные команды.md",
