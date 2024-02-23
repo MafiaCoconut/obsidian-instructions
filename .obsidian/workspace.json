@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Docker-copmpose/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Docker-copmpose/Консольные команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Docker/Docker-copmpose/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "Docker/Docker-copmpose/Консольные команды.md"
               }
             }
           },
@@ -218,12 +218,15 @@
   },
   "active": "a210ffaa2ffdb17b",
   "lastOpenFiles": [
+    "templates/sh command.md",
+    "Docker/Network.md",
+    "PostgreSQL/Подключение DB к коду.md",
+    "Docker/Docker-copmpose/Консольные команды.md",
+    "Docker/Команды.md",
+    "Docker/Docker-copmpose",
     "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
-    "PostgreSQL/Подключение DB к коду.md",
-    "Docker/Команды.md",
     "PostgreSQL/Команды.md",
-    "Docker/Network.md",
     "PostgreSQL/Установка.md",
     "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
@@ -244,10 +247,8 @@
     "Linux/Obsidian.md",
     "Linux/Установка расширений.md",
     "Python/PostgreSQL.md",
-    "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
-    "Python/Logs.md",
     "Python/Без названия",
     "Pasted image 20231204150719.png",
     "Deutsch/Репет/Pasted image 20240105161733.png",
@@ -264,7 +265,6 @@
     "Python/Aiogram",
     "templates",
     "Без названия.canvas",
-    "Raspberry",
     "Untitled.canvas"
   ]
 }
