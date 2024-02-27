@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Разное.md",
+                "file": "Docker/Buildx.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Разное.md",
+                "file": "Docker/Buildx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Разное.md",
+                "file": "Docker/Buildx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Разное.md"
+                "file": "Docker/Buildx.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "Docker/Разное.md",
+    "Docker/Buildx.md",
     "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
@@ -225,7 +227,6 @@
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
     "Docker/Dockerfile.md",
-    "Docker/Разное.md",
     "Python/ENV.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
@@ -234,7 +235,6 @@
     "Python/Библиотеки Python.md",
     "Python/Tabulate.md",
     "Python/Selenium.md",
-    "Linux/Obsidian.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
     "Python/Без названия",
