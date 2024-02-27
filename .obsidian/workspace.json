@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Разное.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Разное.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Разное.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md"
+                "file": "Docker/Разное.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Команды.md",
     "Python/Pip.md",
     "Python/Разное.md",
@@ -217,11 +219,9 @@
     "Docker/Docker-copmpose/Консольные команды.md",
     "templates/sh command.md",
     "Docker/Network.md",
-    "PostgreSQL/Подключение DB к коду.md",
     "Docker/Команды.md",
     "Docker/Docker-copmpose",
     "PostgreSQL/Установка.md",
-    "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
     "Docker/Dockerfile.md",
