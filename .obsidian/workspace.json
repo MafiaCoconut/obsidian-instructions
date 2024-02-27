@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pip.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pip.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pip.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pip.md"
+                "file": "PostgreSQL/Подключение DB к коду.md"
               }
             }
           },
@@ -204,11 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8124f758c3a45369",
+  "active": "ee949733654c7bcf",
   "lastOpenFiles": [
-    "Python/Разное.md",
-    "PostgreSQL/Консольные команды.md",
     "Docker/Синхронизация файлов.md",
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
+    "Python/Pip.md",
+    "Python/Разное.md",
     "Linux/Консольные команды.md",
     "Linux/Установка расширений.md",
     "Docker/Docker-copmpose/Yaml файл.md",
@@ -218,7 +220,6 @@
     "PostgreSQL/Подключение DB к коду.md",
     "Docker/Команды.md",
     "Docker/Docker-copmpose",
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
     "Docker/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
@@ -226,7 +227,6 @@
     "Docker/Dockerfile.md",
     "Docker/Разное.md",
     "Python/ENV.md",
-    "Python/Pip.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
     "Git/Настройка git.md",
