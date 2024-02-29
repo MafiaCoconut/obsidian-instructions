@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Buildx.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Buildx.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Buildx.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Buildx.md"
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
-    "Docker/Разное.md",
     "Docker/Buildx.md",
+    "Docker/Разное.md",
     "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
