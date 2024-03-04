@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -188,33 +188,34 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
-    "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
-    "Raspberry/Автозапуск проекта на Raspberry.md",
-    "Docker/Buildx.md",
+    "Docker/Команды.md",
     "Docker/Разное.md",
+    "Docker/Network.md",
+    "Docker/Dockerfile.md",
+    "Docker/Buildx.md",
     "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
+    "Docker/Docker-copmpose/Консольные команды.md",
+    "Raspberry/Автозапуск проекта на Raspberry.md",
+    "PostgreSQL/Подключение DB к коду.md",
+    "PostgreSQL/Консольные команды.md",
     "Python/Pip.md",
     "Python/Разное.md",
     "Linux/Консольные команды.md",
     "Linux/Установка расширений.md",
     "Docker/Docker-copmpose/Yaml файл.md",
-    "Docker/Docker-copmpose/Консольные команды.md",
     "templates/sh command.md",
-    "Docker/Network.md",
-    "Docker/Команды.md",
     "Docker/Docker-copmpose",
     "PostgreSQL/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
-    "Docker/Dockerfile.md",
     "Python/ENV.md",
     "Git/Основные команды.md",
     "Git/Начало работы с новым проектом.md",
