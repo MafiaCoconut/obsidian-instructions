@@ -31,7 +31,7 @@ After=multi-user.target
 
 [Service]
 type=simple
-ExecStart=/home/pi/Projects/Репозиторий/venv/bin/python /home/pi/Projects/Репозиторий/main.py
+ExecStart=/home/pi/Projects/Репозиторий/venv/bin/python /home/pi/Projects/Репозиторий/app/main.py
 WorkingDirectory=/home/pi/Projects/Репозиторий/
 Restart=always
 

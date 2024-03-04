@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md"
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "Raspberry/Автозапуск проекта на Raspberry.md",
@@ -201,7 +202,6 @@
     "Docker/Разное.md",
     "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
-    "PostgreSQL/Подключение DB к коду.md",
     "Python/Pip.md",
     "Python/Разное.md",
     "Linux/Консольные команды.md",
