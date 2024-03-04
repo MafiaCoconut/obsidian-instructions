@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "PostgreSQL/Консольные команды.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dad82561c949bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
+                "file": "PostgreSQL/Подключение DB к коду.md"
               }
             }
           },
@@ -200,18 +188,20 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
+    "Raspberry/Автозапуск проекта на Raspberry.md",
     "Docker/Buildx.md",
     "Docker/Разное.md",
     "Docker/Установка.md",
     "Docker/Синхронизация файлов.md",
-    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Команды.md",
     "Python/Pip.md",
     "Python/Разное.md",
     "Linux/Консольные команды.md",
@@ -233,7 +223,6 @@
     "Python/Fluent.md",
     "Python/Библиотеки Python.md",
     "Python/Tabulate.md",
-    "Python/Selenium.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
     "Python/Без названия",
