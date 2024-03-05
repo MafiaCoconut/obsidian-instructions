@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Подключение DB к коду.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Подключение DB к коду.md"
               }
             }
           },
@@ -188,11 +188,14 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "PostgreSQL/Установка.md",
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "Docker/Команды.md",
     "Docker/Разное.md",
@@ -204,7 +207,6 @@
     "Docker/Docker-copmpose/Консольные команды.md",
     "Raspberry/Автозапуск проекта на Raspberry.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Консольные команды.md",
     "Python/Pip.md",
     "Python/Разное.md",
     "Linux/Консольные команды.md",
@@ -212,7 +214,6 @@
     "Docker/Docker-copmpose/Yaml файл.md",
     "templates/sh command.md",
     "Docker/Docker-copmpose",
-    "PostgreSQL/Установка.md",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
     "Python/ENV.md",
