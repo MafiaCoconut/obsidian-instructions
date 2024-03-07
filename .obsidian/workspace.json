@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Синхронизация файлов.md",
+                "file": "Raspberry/Geckodriver.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Синхронизация файлов.md",
+                "file": "Raspberry/Geckodriver.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Синхронизация файлов.md",
+                "file": "Raspberry/Geckodriver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Синхронизация файлов.md"
+                "file": "Raspberry/Geckodriver.md"
               }
             }
           },
@@ -194,21 +194,27 @@
   },
   "active": "ee949733654c7bcf",
   "lastOpenFiles": [
+    "Raspberry/VS Code.md",
+    "Raspberry/Автозапуск проекта на Raspberry.md",
+    "Raspberry/Подключение по ssh.md",
+    "Raspberry/Подключение к github.md",
+    "Raspberry/Geckodriver.md",
+    "Python/Разное.md",
+    "Python/Библиотеки Python.md",
+    "Python/Fluent.md",
+    "PostgreSQL/Установка.md",
+    "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Установка.md",
     "Docker/Команды.md",
     "Docker/Разное.md",
     "Docker/Network.md",
     "Docker/Dockerfile.md",
     "Docker/Buildx.md",
     "Docker/Установка.md",
-    "Docker/Синхронизация файлов.md",
     "Docker/Docker-copmpose/Консольные команды.md",
-    "Raspberry/Автозапуск проекта на Raspberry.md",
     "Python/Pip.md",
-    "Python/Разное.md",
     "Linux/Консольные команды.md",
     "Linux/Установка расширений.md",
     "Docker/Docker-copmpose/Yaml файл.md",
@@ -217,12 +223,6 @@
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
     "Python/ENV.md",
-    "Git/Основные команды.md",
-    "Git/Начало работы с новым проектом.md",
-    "Git/Настройка git.md",
-    "Python/Fluent.md",
-    "Python/Библиотеки Python.md",
-    "Python/Tabulate.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
     "Python/Без названия",
