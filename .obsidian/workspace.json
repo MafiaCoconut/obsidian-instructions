@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Настройка git.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Настройка git.md"
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
               }
             }
           },
@@ -211,6 +211,7 @@
     "Raspberry/VS Code.md",
     "Raspberry/Geckodriver.md",
     "Raspberry/Подключение по ssh.md",
+    "Git/Настройка git.md",
     "Python/Разное.md",
     "Python/Библиотеки Python.md",
     "Python/Fluent.md",
@@ -234,7 +235,6 @@
     "Docker/Docker-copmpose",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
-    "Python/ENV.md",
     "PostgreSQL/pgAdmin 4",
     "PostgreSQL",
     "Python/Без названия",
