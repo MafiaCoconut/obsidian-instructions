@@ -10,7 +10,7 @@ Raspberry:
 `ssh-keygen -t rsa -b 4096 -C "dadsdad@gmail.com"
 
 Вывод на экран ssh ключа
-`cat ~/.ssh/id_rsa.pub
+`cat ~/.ssh/id_rsa.pub`
 
 Переход с url подключения на ssh
 `git remote set-url origin git@github.com:username/sffafa.git
