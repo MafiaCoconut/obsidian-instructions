@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Команды.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "0034c3331ff8c2cb",
   "lastOpenFiles": [
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Команды.md",
-    "PostgreSQL/Консольные команды.md",
     "Python/PostgreSQL.md",
     "Python/Tabulate.md",
     "Python/Apscheduler.md",
