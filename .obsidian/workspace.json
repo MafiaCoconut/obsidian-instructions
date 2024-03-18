@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Apscheduler.md",
+                "file": "Python/Tabulate.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Apscheduler.md",
+                "file": "Python/Tabulate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Apscheduler.md",
+                "file": "Python/Tabulate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Apscheduler.md"
+                "file": "Python/Tabulate.md"
               }
             }
           },
@@ -200,11 +200,13 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0034c3331ff8c2cb",
   "lastOpenFiles": [
+    "Python/Apscheduler.md",
     "Raspberry/Автозапуск проекта на Raspberry.md",
     "Raspberry/Подключение к github.md",
     "Raspberry/VS Code.md",
@@ -230,7 +232,6 @@
     "Linux/Консольные команды.md",
     "Linux/Установка расширений.md",
     "Docker/Docker-copmpose/Yaml файл.md",
-    "templates/sh command.md",
     "Docker/Docker-copmpose",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
