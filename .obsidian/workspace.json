@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "ee949733654c7bcf",
+            "id": "0034c3331ff8c2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry/Подключение к github.md",
+                "file": "Docker/Установка.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0034c3331ff8c2cb",
+            "id": "ee949733654c7bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Raspberry/Подключение к github.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Установка.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Команды.md"
+                "file": "Docker/Установка.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "0034c3331ff8c2cb",
   "lastOpenFiles": [
+    "PostgreSQL/Команды.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Команды.md",
     "Python/PostgreSQL.md",
     "Python/Tabulate.md",
     "Python/Apscheduler.md",
