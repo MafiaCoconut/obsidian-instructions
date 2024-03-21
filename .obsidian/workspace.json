@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Подключение DB к коду.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -218,10 +218,10 @@
   },
   "active": "6f6939c571def683",
   "lastOpenFiles": [
+    "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Консольные команды.md",
     "Docker/Команды.md",
     "PostgreSQL/Команды.md",
-    "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Установка.md",
     "Docker/Установка.md",
     "Python/PostgreSQL.md",
