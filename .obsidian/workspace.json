@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "5efd70afffbec525",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "6f6939c571def683",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0034c3331ff8c2cb",
+  "active": "5efd70afffbec525",
   "lastOpenFiles": [
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
