@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Команды.md"
               }
             }
           },
@@ -230,18 +230,18 @@
   },
   "active": "5efd70afffbec525",
   "lastOpenFiles": [
+    "Docker/Команды.md",
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/Установка.md",
-    "PostgreSQL/Консольные команды.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Dockerfile.md",
     "Docker/Network.md",
-    "Docker/Команды.md",
     "Raspberry/Автозапуск проекта на Raspberry.md",
     "Docker/Установка.md",
     "Docker/Buildx.md",
     "Docker/Разное.md",
-    "PostgreSQL/Команды.md",
     "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "Raspberry/Подключение к github.md",
