@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -230,17 +230,22 @@
   },
   "active": "5efd70afffbec525",
   "lastOpenFiles": [
+    "Docker/Установка.md",
+    "Docker/Buildx.md",
+    "Docker/Dockerfile.md",
+    "Docker/Network.md",
+    "Docker/Команды.md",
+    "Docker/Разное.md",
+    "Docker/Синхронизация файлов.md",
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
-    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
     "Raspberry/Автозапуск проекта на Raspberry.md",
     "Raspberry/Подключение к github.md",
     "PostgreSQL/Без названия.md",
-    "Docker/Команды.md",
-    "Docker/Установка.md",
     "Python/PostgreSQL.md",
     "Python/Tabulate.md",
     "Python/Apscheduler.md",
@@ -251,11 +256,6 @@
     "Python/Разное.md",
     "Python/Библиотеки Python.md",
     "Python/Fluent.md",
-    "Docker/Синхронизация файлов.md",
-    "Docker/Разное.md",
-    "Docker/Network.md",
-    "Docker/Dockerfile.md",
-    "Docker/Buildx.md",
     "Docker/Docker-copmpose",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
