@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "Raspberry/Автозапуск проекта на Raspberry.md"
               }
             }
           },
@@ -230,11 +230,11 @@
   },
   "active": "5efd70afffbec525",
   "lastOpenFiles": [
+    "Docker/Команды.md",
     "Docker/Установка.md",
     "Docker/Buildx.md",
     "Docker/Dockerfile.md",
     "Docker/Network.md",
-    "Docker/Команды.md",
     "Docker/Разное.md",
     "Docker/Синхронизация файлов.md",
     "PostgreSQL/Консольные команды.md",
