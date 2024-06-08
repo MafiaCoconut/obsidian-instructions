@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура приложений/Правило зависимостей.md",
+                "file": "Python/Fluent.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Архитектура приложений/Правило зависимостей.md",
+                "file": "Python/Fluent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архитектура приложений/Правило зависимостей.md",
+                "file": "Python/Fluent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура приложений/Правило зависимостей.md"
+                "file": "Python/Fluent.md"
               }
             }
           },
@@ -218,10 +218,22 @@
   },
   "active": "dd96350ca5473a29",
   "lastOpenFiles": [
-    "Архитектура приложений/Скромный объект.md",
-    "Архитектура приложений/Правило зависимостей.md",
-    "Архитектура приложений/SOLID.md",
+    "PostgreSQL/Установка.md",
+    "PostgreSQL/Подключение DB к коду.md",
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
+    "PostgreSQL/pgAdmin 4/Установка.md",
+    "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
+    "Docker/Установка.md",
+    "Docker/Синхронизация файлов.md",
+    "Docker/Разное.md",
+    "Docker/Команды.md",
+    "Docker/Network.md",
+    "Docker/Dockerfile.md",
+    "Docker/Buildx.md",
+    "Архитектура приложений/Правило зависимостей.md",
+    "Архитектура приложений/Скромный объект.md",
+    "Архитектура приложений/SOLID.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений/Нужно изучить дополнительно.md",
@@ -235,18 +247,6 @@
     "Архитектура приложений",
     "Linux/Установка расширений.md",
     "Linux/Obsidian.md",
-    "Git/Основные команды.md",
-    "Git/Начало работы с новым проектом.md",
-    "Git/Настройка git.md",
-    "Docker/Dockerfile.md",
-    "Docker/Buildx.md",
-    "Docker/Синхронизация файлов.md",
-    "Raspberry/Автозапуск проекта на Raspberry.md",
-    "Raspberry/VS Code.md",
-    "Raspberry/Geckodriver.md",
-    "PostgreSQL/pgAdmin 4/Установка.md",
-    "PostgreSQL/Консольные команды.md",
-    "PostgreSQL/Подключение DB к коду.md",
     "Docker/Docker-copmpose",
     "Docker/Data/Pasted image 20240115121016.png",
     "Docker/Data/Pasted image 20240115120915.png",
