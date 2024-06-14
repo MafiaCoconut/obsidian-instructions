@@ -307,13 +307,13 @@ Polymorphismus ermöglicht es Objekten verschiedener Klassen, Methodenaufrufe mi
 Die Abstraktion besteht darin, die allgemeinen Eigenschaften von Objekten hervorzuheben und sie durch abstrakte Klassen und Methoden darzustellen. Es verbirgt komplexe Implementierungsdetails und zeigt nur die notwendigen Eigenschaften und Verhaltensweisen an.
 
 
-## Итераторы
+## Iteratoren (Итераторы)
 dies sind Objekte, mit denen Sie Elemente in Sammlungen (Listen, Tupel, Mengen usw.) nacheinander durchlaufen können.
 
 \_\_iter\_\_(): Gibt den Iterator selbst zurück.
 \_\_next\_\_(): Gibt das nächste Element der Auflistung zurück. 
 
-## Генераторы
+## Generatoren (Генераторы)
 dies sind einfache und praktische Iteratoren, die mit der Funktion und dem Schlüsselwort `yield` anstelle von `return` erstellt werden.
 
 Speichersparend: Es ist nicht erforderlich, die gesamte Sequenz im Speicher zu speichern.
