@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Tестирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Tестирование.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Tестирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md"
+                "file": "Шпоры для работы/Tестирование.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "dd96350ca5473a29",
   "lastOpenFiles": [
+    "Шпоры для работы/SOLID и другие патерны.md",
     "Шпоры для работы/Прошлое.md",
     "Шпоры для работы/Docker.md",
     "Шпоры для работы/Django.md",
@@ -226,7 +227,6 @@
     "Шпоры для работы/CI CD.md",
     "Шпоры для работы/Rest.md",
     "Шпоры для работы/Python.md",
-    "Шпоры для работы/SOLID и другие патерны.md",
     "Шпоры для работы/Lean Architecture.md",
     "Архитектура приложений/Принципы связи компонентов.md",
     "Архитектура приложений/SOLID.md",
