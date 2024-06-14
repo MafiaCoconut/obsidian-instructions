@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпоры для работы/Прошлое.md",
+                "file": "Шпоры для работы/SOLID и другие патерны.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпоры для работы/Прошлое.md",
+                "file": "Шпоры для работы/SOLID и другие патерны.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпоры для работы/Прошлое.md",
+                "file": "Шпоры для работы/SOLID и другие патерны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпоры для работы/Прошлое.md"
+                "file": "Шпоры для работы/SOLID и другие патерны.md"
               }
             }
           },
@@ -217,9 +217,9 @@
   },
   "active": "dd96350ca5473a29",
   "lastOpenFiles": [
+    "Шпоры для работы/Прошлое.md",
     "Шпоры для работы/Docker.md",
     "Шпоры для работы/Django.md",
-    "Шпоры для работы/Прошлое.md",
     "Шпоры для работы/SQL.md",
     "Шпоры для работы/Docker-compose.md",
     "Шпоры для работы/Docker команды.md",
