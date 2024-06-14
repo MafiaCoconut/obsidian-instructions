@@ -13,7 +13,7 @@
 #### **Аутентификация и авторизация**:
 
 - Встроенные системы аутентификации пользователей и управления правами доступа.
-- Eingebaute Systeme zur Benutzer-Authentifizierung und Zugriffssteuerung.
+- Eingebaute Systeme zur Benutzer-<font color="#00b050">Authentifizierung</font> und <font color="#00b050">Zugriffssteuerung</font>.
 
 #### **URL Routing**:
 

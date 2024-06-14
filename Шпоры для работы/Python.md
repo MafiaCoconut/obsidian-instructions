@@ -40,7 +40,7 @@ is сравнивает адреса в памяти/vergleicht Adressen im Spei
 
 ## Funktionen
 ###### args 
- - неограниченное количество дополнительных переменных в формате "значение" 
+ - неограниченное количество дополнительных переменных в формате  "<font color="#00b050">значение</font>" 
 - unbegrenzte Anzahl zusätzlicher Variablen im Format <font color="#00b050">"Wert"</font>
 
 ###### kwargs

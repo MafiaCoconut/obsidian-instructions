@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5004348754883
+    "width": 200
   },
   "right": {
     "id": "8ed63cac4e77dcc9",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md",
+                "file": "Шпоры для работы/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпоры для работы/SOLID и другие патерны.md"
+                "file": "Шпоры для работы/Docker.md"
               }
             }
           },
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +217,16 @@
   },
   "active": "dd96350ca5473a29",
   "lastOpenFiles": [
-    "Шпоры для работы/Lean Architecture.md",
+    "Шпоры для работы/Django.md",
+    "Шпоры для работы/Прошлое.md",
+    "Шпоры для работы/SQL.md",
+    "Шпоры для работы/Docker-compose.md",
+    "Шпоры для работы/Docker команды.md",
+    "Шпоры для работы/CI CD.md",
+    "Шпоры для работы/Rest.md",
     "Шпоры для работы/Python.md",
     "Шпоры для работы/SOLID и другие патерны.md",
+    "Шпоры для работы/Lean Architecture.md",
     "Архитектура приложений/Принципы связи компонентов.md",
     "Архитектура приложений/SOLID.md",
     "Python/Selenium.md",
@@ -236,15 +243,8 @@
     "Docker/Команды.md",
     "Docker/Network.md",
     "Docker/Dockerfile.md",
-    "Docker/Buildx.md",
-    "Архитектура приложений/Правило зависимостей.md",
-    "Архитектура приложений/Скромный объект.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
-    "Архитектура приложений/Нужно изучить дополнительно.md",
-    "Linux/Консольные команды.md",
-    "Архитектура приложений/Устойчивость компонентов.md",
-    "Архитектура приложений/Режимы разделения.md",
     "Архитектура приложений",
     "Docker/Docker-copmpose",
     "Docker/Data/Pasted image 20240115121016.png",
