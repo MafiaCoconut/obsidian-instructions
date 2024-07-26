@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпоры для работы/Tестирование.md",
+                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпоры для работы/Tестирование.md",
+                "file": "PostgreSQL/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпоры для работы/Tестирование.md",
+                "file": "PostgreSQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпоры для работы/Tестирование.md"
+                "file": "PostgreSQL/Команды.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "dd96350ca5473a29",
   "lastOpenFiles": [
+    "Шпоры для работы/Tестирование.md",
     "Шпоры для работы/SOLID и другие патерны.md",
     "Шпоры для работы/Прошлое.md",
     "Шпоры для работы/Docker.md",
@@ -242,7 +243,6 @@
     "Docker/Синхронизация файлов.md",
     "Docker/Разное.md",
     "Docker/Команды.md",
-    "Docker/Network.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
