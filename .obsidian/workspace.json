@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd9e8f1b944ac96",
+        "id": "7a99d00f651efa0c",
         "type": "tabs",
         "children": [
           {
-            "id": "0994f1f99350f624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd96350ca5473a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL/Команды.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6939c571def683",
+            "id": "3079e5378d9b4074",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee949733654c7bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raspberry/Подключение к github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf7b9f996c64154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Синхронизация файлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8124f758c3a45369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL/Консольные команды.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Docker/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Команды.md"
+                "file": "Docker/Команды.md"
               }
             }
           },
@@ -215,8 +154,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd96350ca5473a29",
+  "active": "3079e5378d9b4074",
   "lastOpenFiles": [
+    "Docker/Разное.md",
+    "Docker/Синхронизация файлов.md",
+    "Docker/Установка.md",
+    "Docker/Dockerfile.md",
+    "Docker/Buildx.md",
+    "PostgreSQL/Консольные команды.md",
+    "Docker/Network.md",
+    "PostgreSQL/Команды.md",
     "Шпоры для работы/Tестирование.md",
     "Шпоры для работы/SOLID и другие патерны.md",
     "Шпоры для работы/Прошлое.md",
@@ -235,14 +182,6 @@
     "Python/Fluent.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Консольные команды.md",
-    "PostgreSQL/Команды.md",
-    "PostgreSQL/pgAdmin 4/Установка.md",
-    "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
-    "Docker/Установка.md",
-    "Docker/Синхронизация файлов.md",
-    "Docker/Разное.md",
-    "Docker/Команды.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
