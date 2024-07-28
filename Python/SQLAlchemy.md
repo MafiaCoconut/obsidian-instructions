@@ -33,3 +33,64 @@ def DATABASE_URL_psycopg(self):
 model_config = SettingsConfigDict(env_file="../.env", extra="ignore")
 ```
 
+
+### Создание engine
+
+После инициализации класса `DBSettings` нужно создать engine
+#### Синхронный движок
+```python
+sync_engine = create_engine(  
+    url=db_settings.DATABASE_URL_psycopg,  
+    echo=True, # Выводит подробные логи в консоль
+    pool_size=10,  
+    max_overflow=20,  
+    pool_timeout=30,  
+    pool_recycle=1800,  
+    pool_pre_ping=True,  
+)  
+```
+
+
+#### Асинхронный движок
+```python
+async_engine = create_async_engine(  
+    url=db_settings.DATABASE_URL_asyncpg,  
+    echo=True,  # Выводит подробные логи в консоль
+    pool_size=10,  
+    max_overflow=20,  
+    pool_timeout=30,  
+    pool_recycle=1800,  
+    pool_pre_ping=True,  
+)
+```
+
+#### Модели
+Для обращения к базе данных через `SQLAlchemy` можно использовать модели баз данных
+
+Для этого создаём базовый класс, от которого будем наследовать модели баз данных
+```python
+from sqlalchemy.orm import DeclarativeBase
+
+class Base(DeclarativeBase):  
+    pass
+```
+
+При создании модели базы данных нужно наследовать её от `Base`
+```python
+from sqlalchemy.orm import Mapped, mapped_column
+from sqlalchemy import BigInteger
+
+class UserOrm(Base):  
+    __tablename__ = 'users'  
+  
+    user_id: Mapped[int] = mapped_column(BigInteger, primary_key=True)  
+    username: Mapped[str]  
+    mailing_time: Mapped[str]  
+    language: Mapped[str]  
+    canteen_id: Mapped[int]  
+    #updated_at: Mapped[updated_at] 
+    #created_at: Mapped[created_at]  
+    #status: Mapped[str] = mapped_column(default="active")
+```
+
+
