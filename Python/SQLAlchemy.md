@@ -76,6 +76,7 @@ class Base(DeclarativeBase):
 ```
 
 При создании модели базы данных нужно наследовать её от `Base`
+Также нужно создать переменную `__tablename__` в которую записать название вашей базы данных
 ```python
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import BigInteger
@@ -88,9 +89,35 @@ class UserOrm(Base):
     mailing_time: Mapped[str]  
     language: Mapped[str]  
     canteen_id: Mapped[int]  
+    status: Mapped[str] = mapped_column(default="active")
     #updated_at: Mapped[updated_at] 
     #created_at: Mapped[created_at]  
-    #status: Mapped[str] = mapped_column(default="active")
+    
 ```
+`Mapped` отвечает за указание на тип данных, которые должны быть в этом столбце
+`mapped_column` расширяет информацию о столбце. 
+###### Параметры `mapped_column`
+- `default` - дефолтные данные, если данные не были указаны
+- `primary_key` - указать, что столбец является ключевым
+- `server_default` - данные запишутся на сервер в момент создания строки
+- `onupdate` - действие, которое произойдёт с данными в момент обновления любых данных в строке
 
+
+Также можно заранее заготовить часто используемые настройки столбоц и импортировать их в модель базы данных.
+Сделаем пример настроек для `primary_key`, `created_at`, `updated_at`
+```python
+from datetime import datetime, UTC  
+from typing import Annotated  
+from sqlalchemy.orm import mapped_column  
+from sqlalchemy import text  
+  
+intpk = Annotated[int, mapped_column(primary_key=True)]  
+  
+created_at = Annotated[datetime, mapped_column(server_default=text("TIMEZONE('utc', now())"))]  
+
+updated_at = Annotated[datetime, mapped_column(  
+    server_default=text("TIMEZONE('utc', now())"),  
+    onupdate=lambda: datetime.now(UTC).replace(tzinfo=None),  
+)]
+```
 

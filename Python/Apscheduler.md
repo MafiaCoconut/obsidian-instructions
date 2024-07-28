@@ -16,8 +16,8 @@ scheduler.start()
 ###### Добавление работы
 ```python
 scheduler.add_job(
-			function_name,
-			'cron', 
+			func: Callable = function_name,
+			trigger: str = 'cron', 
 			id: str,
 			hour: int,
 			minute: int,
@@ -42,8 +42,7 @@ scheduler.add_job(
 
 ###### Удаление работы
 ```python
-scheduler.remove_job(
-					job_id: str) # указать id работы, которую нужно удалить
+scheduler.remove_job(job_id: str) # указать id работы, которую нужно удалить
 ```
 
 ###### Получить все работы

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/SQLAlchemy.md",
+                "file": "Python/Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/SQLAlchemy.md",
+                "file": "Python/Selenium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/SQLAlchemy.md",
+                "file": "Python/Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/SQLAlchemy.md"
+                "file": "Python/Selenium.md"
               }
             }
           },
@@ -157,9 +157,15 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
+    "Python/Apscheduler.md",
+    "Python/Beautiful Soup.md",
+    "Python/Datetime.md",
     "Python/ENV.md",
-    "Python/SQLAlchemy.md",
     "Python/Fluent.md",
+    "Python/Logs.md",
+    "Python/Pip.md",
+    "Python/PostgreSQL.md",
+    "Python/SQLAlchemy.md",
     "Python/Разное.md",
     "Python/Библиотеки Python.md",
     "Python/Selenium.md",
@@ -179,12 +185,6 @@
     "PostgreSQL/Консольные команды.md",
     "Docker/Network.md",
     "PostgreSQL/Команды.md",
-    "Шпоры для работы/Tестирование.md",
-    "Шпоры для работы/SOLID и другие патерны.md",
-    "Шпоры для работы/Прошлое.md",
-    "Шпоры для работы/Docker.md",
-    "Шпоры для работы/Django.md",
-    "Шпоры для работы/SQL.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
