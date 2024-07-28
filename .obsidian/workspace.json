@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "FastAPI/FastAPI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "FastAPI/FastAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Команды.md",
+                "file": "FastAPI/FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Команды.md"
+                "file": "FastAPI/FastAPI.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +157,11 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
+    "FastAPI/API.md",
+    "FastAPI/FastAPI.md",
+    "FastAPI/Uvicorn.md",
+    "Docker/Команды.md",
+    "FastAPI",
     "Docker/Разное.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
@@ -178,10 +184,6 @@
     "Шпоры для работы/Lean Architecture.md",
     "Архитектура приложений/Принципы связи компонентов.md",
     "Архитектура приложений/SOLID.md",
-    "Python/Selenium.md",
-    "Python/Fluent.md",
-    "PostgreSQL/Установка.md",
-    "PostgreSQL/Подключение DB к коду.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
@@ -201,7 +203,6 @@
     "Deutsch/Репет/Файлы",
     "Deutsch/Репет",
     "Телеграм бот хелпер для уника",
-    "Deutsch",
     "Без названия.canvas",
     "Untitled.canvas"
   ]
