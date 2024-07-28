@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/FastAPI.md",
+                "file": "Python/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FastAPI/FastAPI.md",
+                "file": "Python/Redis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FastAPI/FastAPI.md",
+                "file": "Python/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI/FastAPI.md"
+                "file": "Python/Redis.md"
               }
             }
           },
@@ -157,11 +157,13 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
-    "FastAPI/API.md",
-    "FastAPI/FastAPI.md",
-    "FastAPI/Uvicorn.md",
+    "Python/FastAPI/FastAPI.md",
+    "Python/Redis.md",
+    "Без названия",
+    "Python/FastAPI/API.md",
+    "Python/FastAPI/Uvicorn.md",
     "Docker/Команды.md",
-    "FastAPI",
+    "Python/FastAPI",
     "Docker/Разное.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
@@ -183,7 +185,6 @@
     "Шпоры для работы/Python.md",
     "Шпоры для работы/Lean Architecture.md",
     "Архитектура приложений/Принципы связи компонентов.md",
-    "Архитектура приложений/SOLID.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
@@ -202,7 +203,6 @@
     "Deutsch/Репет/Pasted image 20240105012149.png",
     "Deutsch/Репет/Файлы",
     "Deutsch/Репет",
-    "Телеграм бот хелпер для уника",
     "Без названия.canvas",
     "Untitled.canvas"
   ]
