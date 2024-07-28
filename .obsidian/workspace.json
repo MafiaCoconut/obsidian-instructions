@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/SQLAlchemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8ed63cac4e77dcc9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/SQLAlchemy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Fluent.md",
+                "file": "Python/SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Fluent.md"
+                "file": "Python/SQLAlchemy.md"
               }
             }
           },
@@ -158,6 +157,9 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
+    "Python/ENV.md",
+    "Python/SQLAlchemy.md",
+    "Python/Fluent.md",
     "Python/Разное.md",
     "Python/Библиотеки Python.md",
     "Python/Selenium.md",
@@ -183,9 +185,6 @@
     "Шпоры для работы/Docker.md",
     "Шпоры для работы/Django.md",
     "Шпоры для работы/SQL.md",
-    "Шпоры для работы/Docker-compose.md",
-    "Шпоры для работы/Docker команды.md",
-    "Шпоры для работы/CI CD.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
