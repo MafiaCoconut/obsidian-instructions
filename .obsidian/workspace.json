@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Redis.md",
+                "file": "Python/Fluent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Redis.md",
+                "file": "Python/Fluent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Redis.md",
+                "file": "Python/Fluent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Redis.md"
+                "file": "Python/Fluent.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
-    "Python/FastAPI/FastAPI.md",
+    "Python/Разное.md",
+    "Python/Библиотеки Python.md",
+    "Python/Selenium.md",
+    "Python/Tabulate.md",
     "Python/Redis.md",
+    "Python/FastAPI/FastAPI.md",
     "Без названия",
     "Python/FastAPI/API.md",
     "Python/FastAPI/Uvicorn.md",
@@ -181,10 +185,6 @@
     "Шпоры для работы/Docker-compose.md",
     "Шпоры для работы/Docker команды.md",
     "Шпоры для работы/CI CD.md",
-    "Шпоры для работы/Rest.md",
-    "Шпоры для работы/Python.md",
-    "Шпоры для работы/Lean Architecture.md",
-    "Архитектура приложений/Принципы связи компонентов.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",

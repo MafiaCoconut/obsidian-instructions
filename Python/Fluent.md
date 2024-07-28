@@ -1,17 +1,18 @@
-##### Начало работы 
+### Начало работы 
 Создать  папку `locales`
 
 В папке `locales` создать подпапки с кодами языков, которые будут в проекте. 
 
 В каждой подпапке создать файл с расширением `.ftl` куда будут записываться все переводы
 
-Пример:
+###### Пример:
 `locales\en\base_en.ftl`
 `locales\ru\base_ru.ftl`
 
-###### Инициализация
-Создать файл `utils.fluent.py`
+### Инициализация
+Создать файл `translation_service.py`
 
+Внутри файла создаём класс 
 Внутрь прописать следующее 
 ```Python
 from fluent.runtime import FluentLocalization, FluentResourceLoader
