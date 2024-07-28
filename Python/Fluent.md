@@ -12,33 +12,45 @@
 ### Инициализация
 Создать файл `translation_service.py`
 
-Внутри файла создаём класс 
-Внутрь прописать следующее 
-```Python
-from fluent.runtime import FluentLocalization, FluentResourceLoader
-
-loader = FluentResourceLoader("locales/{locale}")
+Внутри файла создаём класс `TranslationService`
+```python
+class TranslationService:
+	def __init__(self):
+		...
 ```
 
-Создать переменные отвечающие  за вывод подходящего  перевода 
-```Python
-l10n_en = FluentLocalization(["en"], ["base_en.ftl"], loader)
-l10n_ru = FluentLocalization(["ru"], ["base_ru.ftl"], loader)
+При инициализации нужно создать объект `FluentResourceLoader`, который будет указывать на папку, где содержатся все файлы с переводами. В конце пути нужно указать `{locale}`, чтобы при дальнейшей инициализации локализаторов, локали подставлялись сами.
+```python
+class TranslationService:
+	def __init__(self):
+		self.loader = FluentResourceLoader("infrastructure/locales/{locale}")
 ```
-Также можно добавить  следующее
-```Python
-list_of_available_languages = ['en', 'ru']
 
-list_of_l10n = {
-    'ru': l10n_ru,
-    'en': l10n_en
-}
+Далее внутри `__init__` нужно создать словарь, где ключ это языковая локаль, а значение это объект `FluentLocalization`
+```python
+class TranslationService:
+	def __init__(self):
+		self.loader = FluentResourceLoader("infrastructure/locales/{locale}")
+		self.l10n = {
+			'en': FluentLocalization(["en"], ["base_en.ftl"], self.loader),  
+			'ru': FluentLocalization(["ru"], ["base_ru.ftl"], self.loader),
+		}
 ```
-Импортировав `list_of_available_languages` в нужную вам часть кода, можно получить список доступных языков для перевода
 
-Импортировав `list_of_l10n` можно обратиться к нужному l10n по языковому коду 
+Теперь нам нужно создать функцию, которая на вход будет получать название переменной в файле `.ftl` и языковую локаль. Функция будет возвращать полученное сообщение. Если такой переменной в файле не будет, функция вернёт саму переменную
+```python
+async def translate(self, message_id: str, locale: str, **kwargs):  
+    if locale in self.l10n:  
+        translation = self.l10n[locale].format_value(message_id, kwargs)  
+        if translation == message_id:  
+            logging.error(f"Message ID '{message_id}' not found for locale '{locale}'.")  
+        return translation  
+    else:  
+        logging.error(f"Locale '{locale}' not supported.")  
+        return f"[{message_id}]"
+```
 
-##### Формат записи данных в .ftl
+### Формат записи данных в .ftl
 Если нужно, чтобы текст был многострочным, то 
 ```python
 # base_ru.ftl
@@ -54,35 +66,18 @@ menu-main =
 reactivating-bot = Вы уже активировали бота!
 ```
 
+Если нужно передать переменные в текст
+```fluent
+
+```
+
 Соответсвенно нужно создать переменные с **такими же названиями** в файлах `.ftl`  других языков.
-##### Принцип работы
-В файле, в котором нужно  добавить  мультиязычность импортируем list_of_l10n. 
-Тут можно либо создать локально новую переменную под l10n или использовать  уже созданную переменную через list_of_l10n.
-```Python
-from utils.fluent import list_of_l10n
-# Первый способ
-language = 'en'
-l10n = list_of_l10n[language]
-text = l10n.format_value('reactivating-bot')
-print(text) # You have already activated the bot!
 
-# Второй способ
-language = 'ru'
-text = list_of_l10n[language].format_value('reactivating-bot')
-print(text) # Вы уже активировали бота!
-```
+### Создание динамических кнопок в клавиатурах aiogram
+Позже дополню
 
-##### Создание динамических кнопок в клавиатурах aiogram
-Требуемую клавиатуру нужно обернуть в функцию, которая будет создавать клавиатуру с учётом выбранного языка.
-```python
-def get_go_to_menu_main(l10n):  
-	go_to_menu_main = InlineKeyboardMarkup(  
-		inline_keyboard=[  
-			[InlineKeyboardButton(text=l10n.format_value('to-menu-main'), callback_data="menu_main")]  
-		]  
-	)  
-	
-return go_to_menu_main
-```
-
-В этом примере мы передаём в функцию создания клавиатуры l10n, которую мы уже инициализировали до этого в основной функции.
+Создаём класс `KeyboardBuilder`
+При инициализации передаём ему `translation_service`
+Все `keyboards` возвращаем только через `async def get_<keyboards name>(locale: str)`
+В функции `def get_<keyboards name>` в нужном месте вызываем `await self.translation_service.translate(message_id=<>, locale=<>)`
+Функцию вернёт клавиатуру с переведёнными кнопками на переданную локаль
