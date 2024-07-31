@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium.md",
+                "file": "Ngrok/Ngrok.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Selenium.md",
+                "file": "Ngrok/Ngrok.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Selenium.md",
+                "file": "Ngrok/Ngrok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Selenium.md"
+                "file": "Ngrok/Ngrok.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "3079e5378d9b4074",
   "lastOpenFiles": [
+    "Python/Selenium.md",
+    "Ngrok/Ngrok.md",
+    "Ngrok",
     "Python/Apscheduler.md",
     "Python/Beautiful Soup.md",
     "Python/Datetime.md",
@@ -168,11 +171,9 @@
     "Python/SQLAlchemy.md",
     "Python/Разное.md",
     "Python/Библиотеки Python.md",
-    "Python/Selenium.md",
     "Python/Tabulate.md",
     "Python/Redis.md",
     "Python/FastAPI/FastAPI.md",
-    "Без названия",
     "Python/FastAPI/API.md",
     "Python/FastAPI/Uvicorn.md",
     "Docker/Команды.md",
@@ -184,7 +185,6 @@
     "Docker/Buildx.md",
     "PostgreSQL/Консольные команды.md",
     "Docker/Network.md",
-    "PostgreSQL/Команды.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
