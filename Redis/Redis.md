@@ -18,3 +18,4 @@ sudo systemctl stop redis
 ```bash
 redis-cli
 ```
+
