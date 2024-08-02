@@ -31,9 +31,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba5acf9f79d2b924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Aiogram/Callback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3757e28e87065ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Aiogram/Функционал Aiogram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Redis.md",
+                "file": "Python/Aiogram/Функционал Aiogram.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/Redis.md",
+                "file": "Python/Aiogram/Функционал Aiogram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/Redis.md"
+                "file": "Python/Aiogram/Функционал Aiogram.md"
               }
             }
           },
@@ -169,10 +193,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92995026d95c4e52",
+  "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "Ngrok/Ngrok.md",
+    "Python/Aiogram/Aiogram.md",
+    "Python/Aiogram/Callback.md",
+    "Python/Aiogram/State.md",
     "Redis/Redis.md",
+    "Ngrok/Ngrok.md",
     "Redis",
     "Python/Selenium.md",
     "Ngrok",
@@ -197,9 +224,6 @@
     "Docker/Разное.md",
     "Docker/Синхронизация файлов.md",
     "Docker/Установка.md",
-    "Docker/Dockerfile.md",
-    "Docker/Buildx.md",
-    "PostgreSQL/Консольные команды.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
