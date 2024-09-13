@@ -189,8 +189,7 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "3757e28e87065ca7",
