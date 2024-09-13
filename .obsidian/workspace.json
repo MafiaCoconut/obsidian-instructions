@@ -8,56 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3079e5378d9b4074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ngrok/Ngrok.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92995026d95c4e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis/Redis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba5acf9f79d2b924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Aiogram/Callback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3757e28e87065ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Aiogram/Функционал Aiogram.md",
+                "file": "Git/ssh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Aiogram/Функционал Aiogram.md",
+                "file": "Git/ssh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Aiogram/Функционал Aiogram.md",
+                "file": "Git/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Aiogram/Функционал Aiogram.md"
+                "file": "Git/ssh.md"
               }
             }
           },
@@ -189,16 +151,24 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "Python/Aiogram/Aiogram.md",
+    "Git/Начало работы с новым проектом.md",
+    "Git/ssh.md",
+    "Git/Настройка git.md",
+    "Linux/SSH.md",
     "Python/Aiogram/Callback.md",
-    "Python/Aiogram/State.md",
     "Redis/Redis.md",
     "Ngrok/Ngrok.md",
+    "Linux/Установка расширений.md",
+    "Linux/Консольные команды.md",
+    "Python/Aiogram/Функционал Aiogram.md",
+    "Python/Aiogram/Aiogram.md",
+    "Python/Aiogram/State.md",
     "Redis",
     "Python/Selenium.md",
     "Ngrok",
@@ -215,14 +185,7 @@
     "Python/Библиотеки Python.md",
     "Python/Tabulate.md",
     "Python/Redis.md",
-    "Python/FastAPI/FastAPI.md",
-    "Python/FastAPI/API.md",
-    "Python/FastAPI/Uvicorn.md",
-    "Docker/Команды.md",
     "Python/FastAPI",
-    "Docker/Разное.md",
-    "Docker/Синхронизация файлов.md",
-    "Docker/Установка.md",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
     "Архитектура приложений",
