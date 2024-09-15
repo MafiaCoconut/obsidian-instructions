@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "PostgreSQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md"
+                "file": "PostgreSQL/Команды.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
