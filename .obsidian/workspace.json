@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/ssh.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/ssh.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/ssh.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/ssh.md"
+                "file": "PostgreSQL/Консольные команды.md"
               }
             }
           },
@@ -157,8 +157,14 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "Git/Начало работы с новым проектом.md",
+    "PostgreSQL/Команды.md",
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Установка.md",
+    "PostgreSQL/Подключение DB к коду.md",
+    "PostgreSQL/pgAdmin 4/Установка.md",
+    "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
     "Git/ssh.md",
+    "Git/Начало работы с новым проектом.md",
     "Git/Настройка git.md",
     "Linux/SSH.md",
     "Python/Aiogram/Callback.md",
@@ -179,12 +185,6 @@
     "Python/Fluent.md",
     "Python/Logs.md",
     "Python/Pip.md",
-    "Python/PostgreSQL.md",
-    "Python/SQLAlchemy.md",
-    "Python/Разное.md",
-    "Python/Библиотеки Python.md",
-    "Python/Tabulate.md",
-    "Python/Redis.md",
     "Python/FastAPI",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
