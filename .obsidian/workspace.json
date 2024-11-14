@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "Python/Selenium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды"
+              "title": "Selenium"
             }
           }
         ]
@@ -175,8 +175,10 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "PostgreSQL/Консольные команды.md",
+    "Python/[.md",
+    "Python/Selenium.md",
     "PostgreSQL/Команды.md",
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
@@ -194,7 +196,6 @@
     "Python/Aiogram/Aiogram.md",
     "Python/Aiogram/State.md",
     "Redis",
-    "Python/Selenium.md",
     "Ngrok",
     "Python/Apscheduler.md",
     "Python/Beautiful Soup.md",
@@ -202,7 +203,6 @@
     "Python/ENV.md",
     "Python/Fluent.md",
     "Python/Logs.md",
-    "Python/Pip.md",
     "Python/FastAPI",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
