@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Команды.md",
+                "file": "PostgreSQL/Консольные команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды"
+              "title": "Консольные команды"
             }
           }
         ]
@@ -175,12 +175,12 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "PostgreSQL/Консольные команды.md",
-    "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
-    "PostgreSQL/pgAdmin 4/Установка.md",
-    "PostgreSQL/Команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
+    "PostgreSQL/Консольные команды.md",
+    "PostgreSQL/Команды.md",
+    "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
+    "PostgreSQL/pgAdmin 4/Установка.md",
     "Python/Selenium.md",
     "Python/[.md",
     "Git/ssh.md",
