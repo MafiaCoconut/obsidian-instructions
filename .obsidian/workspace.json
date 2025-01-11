@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Консольные команды.md",
+                "file": "Docker/Команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Консольные команды"
+              "title": "Команды"
             }
           }
         ]
@@ -175,9 +175,15 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
+    "Docker/Network.md",
+    "Docker/Команды.md",
+    "Docker/Разное.md",
+    "Docker/Синхронизация файлов.md",
+    "Docker/Dockerfile.md",
+    "Docker/Установка.md",
+    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
-    "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
@@ -197,12 +203,6 @@
     "Python/Aiogram/State.md",
     "Redis",
     "Ngrok",
-    "Python/Apscheduler.md",
-    "Python/Beautiful Soup.md",
-    "Python/Datetime.md",
-    "Python/ENV.md",
-    "Python/Fluent.md",
-    "Python/Logs.md",
     "Python/FastAPI",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
