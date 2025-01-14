@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/ssh.md",
+                "file": "Git/Настройка git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh"
+              "title": "Настройка git"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "Git/Настройка git.md",
     "Git/Начало работы с новым проектом.md",
-    "Git/Основные команды.md",
+    "Git/Настройка git.md",
     "Git/ssh.md",
+    "Git/Основные команды.md",
     "Python/Selenium.md",
     "Python/[.md",
     "PostgreSQL/Команды.md",
