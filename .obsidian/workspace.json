@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Selenium.md",
+                "file": "Git/Настройка git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selenium"
+              "title": "Настройка git"
             }
           }
         ]
@@ -169,22 +169,24 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3757e28e87065ca7",
   "lastOpenFiles": [
-    "Python/[.md",
+    "Git/Начало работы с новым проектом.md",
+    "Git/Основные команды.md",
+    "Git/Настройка git.md",
+    "Git/ssh.md",
     "Python/Selenium.md",
+    "Python/[.md",
     "PostgreSQL/Команды.md",
     "PostgreSQL/Консольные команды.md",
     "PostgreSQL/Установка.md",
     "PostgreSQL/Подключение DB к коду.md",
     "PostgreSQL/pgAdmin 4/Установка.md",
     "PostgreSQL/pgAdmin 4/Запуск в Docker.md",
-    "Git/ssh.md",
-    "Git/Начало работы с новым проектом.md",
-    "Git/Настройка git.md",
     "Linux/SSH.md",
     "Python/Aiogram/Callback.md",
     "Redis/Redis.md",
@@ -201,7 +203,6 @@
     "Python/Datetime.md",
     "Python/ENV.md",
     "Python/Fluent.md",
-    "Python/Logs.md",
     "Python/FastAPI",
     "Архитектура приложений/data/Pasted image 20240522105745.png",
     "Архитектура приложений/data",
