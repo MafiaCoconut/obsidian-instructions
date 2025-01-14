@@ -11,7 +11,8 @@ git config --local user.name "username"
 git config --local user.email "dadsdad@gmail.com"
 ```
 
-# Настройка 
+# Настройка ё
+ 
 
 Raspberry:
 
