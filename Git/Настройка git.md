@@ -1,8 +1,16 @@
-Внесение своих параметров в git
+# Внесение своих параметров в git
+## Глобальные настройки
 ```
 git config --global user.name "username"
 git config --global user.email "dadsdad@gmail.com"
 ```
+
+## Локальные настройки
+```
+git config --local user.name "username"
+git config --local user.email "dadsdad@gmail.com"
+```
+
 
 Raspberry:
 
