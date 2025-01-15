@@ -64,11 +64,36 @@ git submodule update --init --recursive
 ```
 
 ## Обновление проекта/модуля на сервере
+#### Отправка изменений на сервер из папки проекта
+```zsh
+git push --recurce-submodules=<status>
+```
+`--recurce-submodules=check` - Перед отправкой папки проекта проверит отправлены ли изменение в папках модулей
+`--recurce-submodules=on-demand` - Перед отправкой папки проекта сам отправит последние изменений модулей на сервер
+
+##### Команда конфигурации значения --recurce-submodules по умолчанию  
+```zsh
+git config push.recurseSubmodules check
+```
+
+```zsh
+git config push.recurseSubmodules on-demand
+```
+
+## Получение новой версии с сервера
 #### Обновление модуля  в папке проекта
 ```zsh
 git submodule update --remote <SubmoduleDir>
 ```
 
-## Получение новой версии с сервера
-
-
+#### Обновление модуля в папке модуля
+```zsh
+git pull
+```
+ 
+## Настройка сокращений команд
+```zsh
+git config alias.sdiff '!'"git diff && git submodule foreach 'git diff'"
+git config alias.spush 'push --recurse-submodules=on-demand'
+git config alias.supdate 'submodule update --remote --merge'
+```
