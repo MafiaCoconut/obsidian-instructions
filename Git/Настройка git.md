@@ -99,7 +99,7 @@ git config alias.supdate 'submodule update --remote --merge'
 ```
 
 ## Удаление
-```
+```zsh
 git submodule deinit -f <path>
 git rm -f <path>
 rm -rf .git/modules/<path>
