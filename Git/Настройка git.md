@@ -29,7 +29,8 @@ Raspberry:
 ```
 Project/
 |
-- Subproject/
+- Subproject1/
+- Subproject2/
 ```
 
 ## Добавление нового модуля
