@@ -52,7 +52,7 @@ git submodule update
 OR
 
 ```zsh
-git clone --recurce-submodules <github-link> 
+git clone --recurse-submodules <github-link> 
 ```
 
 OR
