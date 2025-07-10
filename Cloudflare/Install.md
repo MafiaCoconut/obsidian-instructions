@@ -1,0 +1,1 @@
+Instruction in Cloudflare website in Zero Trust -> Network-> Tunnels -> edit
