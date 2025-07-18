@@ -1,6 +1,9 @@
 ### Install link
 https://www.virtono.com/community/tutorial-how-to/how-to-deploy-postgresql-on-k3s/
 
+```sh
+helm install test-postgresql bitnami/postgresql --set primary.persistence.existingClaim=pg-pvc,auth.postgresPassword=pgpass,volumePermissions.enabled=true
+```
 ### Get password
 ```sh
 export POSTGRES_PASSWORD=$(kubectl get secret --namespace default test-postgresql -o jsonpath="{.data.postgres-password}" | base64 -d)
