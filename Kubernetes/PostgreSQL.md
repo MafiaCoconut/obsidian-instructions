@@ -3,6 +3,7 @@ https://www.virtono.com/community/tutorial-how-to/how-to-deploy-postgresql-on-k3
 
 ```sh
 helm install test-postgresql bitnami/postgresql --set primary.persistence.existingClaim=pg-pvc,auth.postgresPassword=pgpass,volumePermissions.enabled=true
+primary.pdb.create=false
 ```
 ### Get password
 ```sh
