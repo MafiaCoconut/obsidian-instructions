@@ -1,7 +1,7 @@
 Install
 
 ```sh
-k3s cluster create <name>
+k3s cluster create <name> --config <path>
 ```
 
 
