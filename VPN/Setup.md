@@ -1,3 +1,5 @@
+Оригинал
+https://www.youtube.com/watch?v=zt4oxHeUbdk
 
 ##### 1 Connect to server with ssh
 
@@ -42,3 +44,17 @@ ufw disable && ufw enable
 
 ##### 5 Установка 3x-ui
 Переходим по ссылке https://github.com/MHSanaei/3x-ui и устанавливаем на сервере
+
+После установки получаем 
+Username: 
+Password: 
+Port: \<x-uiport>
+WebBasePath: 
+Access URL: 
+
+```shell
+ufw allow <x-uiport>/tcp
+```
+
+##### 6 Настройка простого VPN 
+Переходим в Access URL, вводим данные, которые были в консоли до.
