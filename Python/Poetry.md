@@ -15,3 +15,6 @@
 
 Запуск скриптов с окружением
 `poetry run python main.py`
+
+Создавать .venv только в папке проекта
+`poetry config virtualenvs.in-project true`
